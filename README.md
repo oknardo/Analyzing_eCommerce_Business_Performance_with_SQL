@@ -38,9 +38,11 @@ Data yang digunakan dalam analisis ini terdiri dari beberapa tabel dengan format
 ## Analisis Data
 ### Proses Analisis
 1. **Data Preparation**: Memasukkan data mentah dalam format csv ke dalam tabel-tabel database menggunakan PostgreSQL dan membuat entity relationship antar tabel.
-2. **Customer Growth Analysis**: Menghitung jumlah customer aktif, jumlah customer baru, jumlah customer yang melakukan repeat order, dan rata-rata transaksi yang dilakukan customer setiap tahun.
-3. **Product Quality Analysis**: Menganalisis performa dari masing-masing kategori produk dan bagaimana kaitannya dengan pendapatan perusahaan.
-4. **Payment Type Analysis**: Menganalisis tipe-tipe pembayaran yang tersedia dan melihat tren perubahan yang terjadi selama beberapa tahun terakhir.
+   ![Entity Relationship Diagram](https://github.com/user-attachments/assets/2015a78f-15b4-454a-b5f0-1e68850f4ed2)
+
+3. **Customer Growth Analysis**: Menghitung jumlah customer aktif, jumlah customer baru, jumlah customer yang melakukan repeat order, dan rata-rata transaksi yang dilakukan customer setiap tahun.
+4. **Product Quality Analysis**: Menganalisis performa dari masing-masing kategori produk dan bagaimana kaitannya dengan pendapatan perusahaan.
+5. **Payment Type Analysis**: Menganalisis tipe-tipe pembayaran yang tersedia dan melihat tren perubahan yang terjadi selama beberapa tahun terakhir.
 
 ## Simpulan
 - **Customer Growth**: Analisis menunjukkan tren pertumbuhan pelanggan yang positif dengan peningkatan jumlah customer aktif dan repeat order.

@@ -50,13 +50,17 @@ Data yang digunakan dalam analisis ini terdiri dari beberapa tabel dengan format
 3. **Product Quality Analysis**: Menganalisis performa dari masing-masing kategori produk dan bagaimana kaitannya dengan pendapatan perusahaan.
    
 ![Top Cancelled Products](https://github.com/user-attachments/assets/7e005f95-07af-4074-ae5f-bdf396f4b996)
+
 ![Top Products Revenue](https://github.com/user-attachments/assets/4fbec9a4-3610-4d2c-9b5f-e9a7a9e64414)
+
 ![Total Cancel Order](https://github.com/user-attachments/assets/897178b8-c480-4811-9b18-76556225e9fb)
+
 ![Total Revenue](https://github.com/user-attachments/assets/20c13919-6895-416d-a9c5-ff186f613579)
 
 4. **Payment Type Analysis**: Menganalisis tipe-tipe pembayaran yang tersedia dan melihat tren perubahan yang terjadi selama beberapa tahun terakhir.
    
 ![Favourite Payment Type](https://github.com/user-attachments/assets/75e2c69f-e3db-4ba9-8ef8-49aee38d1233)
+
 ![Total Usage Payment Type](https://github.com/user-attachments/assets/c4a1eec8-310e-4552-a06f-98bc40e91fa2)
 
 

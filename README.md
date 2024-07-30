@@ -38,11 +38,24 @@ Data yang digunakan dalam analisis ini terdiri dari beberapa tabel dengan format
 ## Analisis Data
 ### Proses Analisis
 1. **Data Preparation**: Memasukkan data mentah dalam format csv ke dalam tabel-tabel database menggunakan PostgreSQL dan membuat entity relationship antar tabel.
-   ![Entity Relationship Diagram](https://github.com/user-attachments/assets/2015a78f-15b4-454a-b5f0-1e68850f4ed2)
+![Entity Relationship Diagram](https://github.com/user-attachments/assets/2015a78f-15b4-454a-b5f0-1e68850f4ed2)
+   
+2. **Customer Growth Analysis**: Menghitung jumlah customer aktif, jumlah customer baru, jumlah customer yang melakukan repeat order, dan rata-rata transaksi yang dilakukan customer setiap tahun.
+![Total Active Customer](https://github.com/user-attachments/assets/1f809dec-e4fd-420d-9783-97d7cf675a8b)
+![Total New Customer](https://github.com/user-attachments/assets/755c3f92-45c9-41f3-9545-2ec613b875cb)
+![Total Repeat Order](https://github.com/user-attachments/assets/fb62907a-5f3e-46be-ac06-bb35e47747f1)
 
-3. **Customer Growth Analysis**: Menghitung jumlah customer aktif, jumlah customer baru, jumlah customer yang melakukan repeat order, dan rata-rata transaksi yang dilakukan customer setiap tahun.
-4. **Product Quality Analysis**: Menganalisis performa dari masing-masing kategori produk dan bagaimana kaitannya dengan pendapatan perusahaan.
-5. **Payment Type Analysis**: Menganalisis tipe-tipe pembayaran yang tersedia dan melihat tren perubahan yang terjadi selama beberapa tahun terakhir.
+3. **Product Quality Analysis**: Menganalisis performa dari masing-masing kategori produk dan bagaimana kaitannya dengan pendapatan perusahaan.
+![Top Cancelled Products](https://github.com/user-attachments/assets/7e005f95-07af-4074-ae5f-bdf396f4b996)
+![Top Products Revenue](https://github.com/user-attachments/assets/4fbec9a4-3610-4d2c-9b5f-e9a7a9e64414)
+![Total Cancel Order](https://github.com/user-attachments/assets/897178b8-c480-4811-9b18-76556225e9fb)
+![Total Revenue](https://github.com/user-attachments/assets/20c13919-6895-416d-a9c5-ff186f613579)
+
+
+4. **Payment Type Analysis**: Menganalisis tipe-tipe pembayaran yang tersedia dan melihat tren perubahan yang terjadi selama beberapa tahun terakhir.
+![Favourite Payment Type](https://github.com/user-attachments/assets/75e2c69f-e3db-4ba9-8ef8-49aee38d1233)
+![Total Usage Payment Type](https://github.com/user-attachments/assets/c4a1eec8-310e-4552-a06f-98bc40e91fa2)
+
 
 ## Simpulan
 - **Customer Growth**: Analisis menunjukkan tren pertumbuhan pelanggan yang positif dengan peningkatan jumlah customer aktif dan repeat order.
